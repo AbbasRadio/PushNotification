@@ -10,7 +10,7 @@ Features
 4. Customization: Allows customization of notification content and behavior to suit specific application needs.
 5. Event handling: Provides callbacks and event handling for various notification events, such as receiving, and opening notifications.
 
-You can find my article on how to implement Push Notification with easy on Medium : [https://medium.com/@abbasradio1234.ar/react-native-push-notifications-your-ultimate-guide-44d11009bb76](url)
+You can find my article on how to implement Push Notification with ease on Medium : [https://medium.com/@abbasradio1234.ar/react-native-push-notifications-your-ultimate-guide-44d11009bb76](url)
 
 Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
